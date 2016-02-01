@@ -3,6 +3,8 @@
 ##Objectives
 The system has to check if a flash drive is plugged, in that case the system crypts the flash drive then unmount it and a LED blink to signal that the device can be unplugged.
 
+To crypt or decrypt a WOR encryption is used, you can find the code at https://github.com/KyleBanks/XOREncryption
+
 ## Use the system
 we have implemented the function which encrypts data in the flash drive.
 
